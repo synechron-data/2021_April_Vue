@@ -1,0 +1,15 @@
+Library (React)
+	Set of JavaScript API's, targeted to do one task
+
+	jQuery - DOM Manipulation, AJAX
+	Date - MomentJS
+	Arrays - Underscore JS / Lodash
+	Data Visualization - Chart JS, D3 JS
+
+Progressive JS FW (Vue)
+	MVVM
+
+FW	(Angular)
+	Set of JavaScript API's, target's the whole application
+	Forced to write code in specific way 
+	Forced Code Structuring
